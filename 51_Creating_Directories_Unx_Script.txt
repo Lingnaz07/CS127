@@ -1,0 +1,7 @@
+#Name Lingna Zheng
+#Email LINGNA.ZHENG07@myhunter.cuny.edu
+#Date Novemeber,28 2023
+
+mkdir projectFiles
+cd projectFiles
+mkdir source data results
